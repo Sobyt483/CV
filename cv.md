@@ -21,6 +21,7 @@ In my free time I'm looking for new ways to challenge myself and grow up as a de
 + Responsive web design
 + Cross-browser compatibility
 + Version control (Git)
++ MySQL
 
 ### EDUCATION
 
